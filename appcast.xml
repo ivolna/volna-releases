@@ -1,6 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Volna</title>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Volna</title>
+        <item>
+            <title>0.9.1</title>
+            <pubDate>Thu, 22 Oct 2026 10:57:23 -0700</pubDate>
+            <sparkle:version>215</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://ivolna.github.io/volna-releases/Volna-0.9.1.dmg" length="9353330" type="application/octet-stream" sparkle:edSignature="W2olN8hiBlKo2CU5QNxvfAflM8OBUt8gO2dO8G+7pRjE5GvCCNk0CkCq4nHU1LtNz3zaczOmSkFgKplEQ5aoBg=="/>
+        </item>
+    </channel>
 </rss>
