@@ -3,13 +3,13 @@
     <channel>
         <title>Volna</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 26 Oct 2026 02:32:34 -0700</pubDate>
-            <sparkle:version>245</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Mon, 26 Oct 2026 10:27:58 -0700</pubDate>
+            <sparkle:version>247</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://ivolna.github.io/volna-releases/Volna-1.0.1.dmg" length="9436954" type="application/octet-stream" sparkle:edSignature="VKOVlo7Dz49nQNh/IIsjxK5lMQsHtjX4p2bX9xkm+V7oG4GWKipWlSI1EiYoDelkQlhDoqoVckNwKpcWKvvUDQ=="/>
+            <enclosure url="https://ivolna.github.io/volna-releases/Volna-1.0.2.dmg" length="9444246" type="application/octet-stream" sparkle:edSignature="WEJS5ooBTyavdpXirfEwug1VDxPrDVLmMN+pJmFjXaKn3O7XbUy2n34gowwxDRVV4+QZuDVbq+UMNGE8YA9EBw=="/>
         </item>
     </channel>
 </rss>
