@@ -4,7 +4,7 @@
   <p><strong>Voice to text for Mac. Speak, and Volna writes it down.</strong><br>
   Private, offline dictation: your voice is recognized right on your Mac and never sent anywhere.</p>
 
-  <a href="https://ivolna.github.io/volna-releases/Volna-1.0.2.dmg"><img src="https://img.shields.io/badge/Download_for_macOS-v1.0.2-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download Volna for macOS, version 1.0.2" height="44"></a>
+  <a href="https://ivolna.github.io/volna-releases/Volna-1.0.3.dmg"><img src="https://img.shields.io/badge/Download_for_macOS-v1.0.3-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download Volna for macOS, version 1.0.3" height="44"></a>
 
   <p>macOS 26 or later · Apple Silicon · Works offline · Free</p>
 
@@ -31,7 +31,7 @@
 
 ## Install
 
-1. [Download Volna](https://ivolna.github.io/volna-releases/Volna-1.0.2.dmg), open the disk image and drag Volna to Applications.
+1. [Download Volna](https://ivolna.github.io/volna-releases/Volna-1.0.3.dmg), open the disk image and drag Volna to Applications.
 2. Open Volna. It asks for the Microphone, the only permission it needs, and downloads its speech model once.
 3. Optional: allow Accessibility, and Volna types the text in for you. Without it, the text goes to the clipboard and you press ⌘V.
 
