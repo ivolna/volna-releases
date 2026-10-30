@@ -3,21 +3,26 @@
     <channel>
         <title>Volna</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Fri, 30 Oct 2026 08:10:21 -0700</pubDate>
-            <sparkle:version>284</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.0.7</title>
+            <pubDate>Fri, 30 Oct 2026 13:05:16 -0700</pubDate>
+            <sparkle:version>299</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Volna 1.0.6</h2>
+            <description><![CDATA[<h2>Volna 1.0.7</h2>
 <ul>
-  <li><b>No more quitting after a headset disconnects.</b> When a Bluetooth headset went away and the Mac switched to
-    another microphone, the next dictation could make Volna quit unexpectedly a moment later. Volna now records from
-    the microphone as it is at that moment, and if the Mac's sound system still refuses, it reports the microphone
-    as unavailable instead of quitting.</li>
+  <li><b>Text goes in where you are typing.</b> In browser text boxes, editable pages, web tables and some apps, Volna
+    sometimes put your text on the clipboard instead of typing it. It now pastes into the app in front, as your own
+    ⌘V would, and keeps the text on the clipboard too wherever it cannot check the result.</li>
+  <li><b>Paste Last Dictation</b> in the menu bar menu puts your last dictation into the app you were using.</li>
+  <li><b>A clear message when a permission is missing.</b> If Volna is not allowed to type, it says so, at start and
+    after a dictation, and offers to open the setting.</li>
+  <li><b>The panel stays in one place.</b> The recording panel and every Volna message now appear at the bottom centre
+    of the screen you are using, never at the top or beside the text box.</li>
+  <li><b>⌘W closes Volna's windows</b>, and Esc closes the hotkey's other options.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://ivolna.github.io/volna-releases/Volna-1.0.6.dmg" length="10425155" type="application/octet-stream" sparkle:edSignature="/D/n5eEfz5P2oC+ip6FJ66aa22WDy3zRJZ6DqZzyE8V5xMczoPVzQ14aKnU5cyFjdRR0sgLKNqjkOs8D12txDg=="/>
+            <enclosure url="https://ivolna.github.io/volna-releases/Volna-1.0.7.dmg" length="10450207" type="application/octet-stream" sparkle:edSignature="oB4I0F4VJI9OaZvJE3NeNKtBpmAFV6Orc2nJuEAvJFi91GAKiC5HCX4HgcxgH2Oo3r4T94K+qsaa0z6SuG6BDg=="/>
         </item>
     </channel>
 </rss>
