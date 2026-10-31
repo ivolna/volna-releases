@@ -3,26 +3,25 @@
     <channel>
         <title>Volna</title>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Fri, 30 Oct 2026 13:05:16 -0700</pubDate>
-            <sparkle:version>299</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Sat, 31 Oct 2026 08:04:00 -0700</pubDate>
+            <sparkle:version>307</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Volna 1.0.7</h2>
+            <description><![CDATA[<h2>Volna 1.0.8</h2>
 <ul>
-  <li><b>Text goes in where you are typing.</b> In browser text boxes, editable pages, web tables and some apps, Volna
-    sometimes put your text on the clipboard instead of typing it. It now pastes into the app in front, as your own
-    ⌘V would, and keeps the text on the clipboard too wherever it cannot check the result.</li>
-  <li><b>Paste Last Dictation</b> in the menu bar menu puts your last dictation into the app you were using.</li>
-  <li><b>A clear message when a permission is missing.</b> If Volna is not allowed to type, it says so, at start and
-    after a dictation, and offers to open the setting.</li>
-  <li><b>The panel stays in one place.</b> The recording panel and every Volna message now appear at the bottom centre
-    of the screen you are using, never at the top or beside the text box.</li>
-  <li><b>⌘W closes Volna's windows</b>, and Esc closes the hotkey's other options.</li>
+  <li><b>Let go of the key right after your last word.</b> Volna sometimes lost the last word or the last sentence,
+    above all when you speak quietly, so you had to wait before releasing the key. On our recordings the last word is
+    now kept 93% of the time with the key released at once, up from 71%, with no extra wait.</li>
+  <li><b>Bluetooth headsets.</b> Volna waits for the end of your speech to arrive from a headset before it stops
+    listening.</li>
+  <li><b>Copy Diagnostics.</b> If a dictation is slow or never arrives, Settings › Diagnostics › Copy Diagnostics
+    copies how long each step of your last dictations took and how each one ended, with your Mac's model and memory,
+    ready to paste into a message to us. It never includes audio or anything you said.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://ivolna.github.io/volna-releases/Volna-1.0.7.dmg" length="10450207" type="application/octet-stream" sparkle:edSignature="oB4I0F4VJI9OaZvJE3NeNKtBpmAFV6Orc2nJuEAvJFi91GAKiC5HCX4HgcxgH2Oo3r4T94K+qsaa0z6SuG6BDg=="/>
+            <enclosure url="https://ivolna.github.io/volna-releases/Volna-1.0.8.dmg" length="10493291" type="application/octet-stream" sparkle:edSignature="RSxb6OBYbmb58hh5n67/HC9RD2QT0gFc3PnNPx2E7+inqeTImkrWD7e21cXCbBygitay89gtU1d/lwJnHr71Dg=="/>
         </item>
     </channel>
 </rss>
